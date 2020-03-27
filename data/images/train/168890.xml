@@ -1,0 +1,14 @@
+<annotation>
+	<folder>train (2)</folder>
+	<filename>168890.png</filename>
+	<path>/home/kamran/train (2)/168890.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

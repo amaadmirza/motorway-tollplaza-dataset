@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>test</folder>
+	<filename>35593.png</filename>
+	<path>/home/ammad/Work/motorway-tollplaza-dataset/data/images/test/35593.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>456</ymin>
+			<xmax>424</xmax>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+</annotation>

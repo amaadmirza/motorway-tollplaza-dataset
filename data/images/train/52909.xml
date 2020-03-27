@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train (2)</folder>
+	<filename>52909.png</filename>
+	<path>/home/kamran/train (2)/52909.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>f1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>543</ymin>
+			<xmax>849</xmax>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>f1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>286</xmin>
+			<ymin>493</ymin>
+			<xmax>386</xmax>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+</annotation>
