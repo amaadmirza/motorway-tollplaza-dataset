@@ -1,0 +1,38 @@
+<annotation>
+	<folder>avc2 (3-18-2021 7-46-20 PM)</folder>
+	<filename>avc2 10671.jpg</filename>
+	<path>C:\Users\Suleman\Documents\Work\videoFrame\AVC2\avc2 (3-18-2021 7-46-20 PM)\avc2 10671.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>297</ymin>
+			<xmax>706</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>630</xmin>
+			<ymin>167</ymin>
+			<xmax>754</xmax>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+</annotation>

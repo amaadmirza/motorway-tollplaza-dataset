@@ -1,0 +1,38 @@
+<annotation>
+	<folder>AVC3 (4-5-2021 7-41-30 PM)</folder>
+	<filename>AVC3 046.jpg</filename>
+	<path>C:\Users\HP\Desktop\AVC3\AVC3 (4-5-2021 7-41-30 PM)\AVC3 046.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>338</xmin>
+			<ymin>339</ymin>
+			<xmax>637</xmax>
+			<ymax>662</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>565</xmin>
+			<ymin>151</ymin>
+			<xmax>685</xmax>
+			<ymax>295</ymax>
+		</bndbox>
+	</object>
+</annotation>
