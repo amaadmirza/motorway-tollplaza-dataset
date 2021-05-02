@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AVC1 (4-3-2021 1-25-48 AM)</folder>
+	<filename>AVC1 2081.jpg</filename>
+	<path>C:\Users\Mechanic\Documents\image label\AVC1\AVC1 (4-3-2021 1-25-48 AM)\AVC1 2081.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>505</xmin>
+			<ymin>221</ymin>
+			<xmax>679</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>
