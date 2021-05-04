@@ -1,7 +1,7 @@
-<annotation>
-	<folder>AVC1 (4-3-2021 1-25-48 AM)</folder>
+<annotation verified="yes">
+	<folder>Test</folder>
 	<filename>AVC1 3087.jpg</filename>
-	<path>C:\Users\Mechanic\Documents\image label\AVC1\AVC1 (4-3-2021 1-25-48 AM)\AVC1 3087.jpg</path>
+	<path>C:\Users\Suleman\Documents\Work\mch_cr\Test\AVC1 3087.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>537</xmin>
-			<ymin>43</ymin>
-			<xmax>739</xmax>
-			<ymax>378</ymax>
+			<xmin>538</xmin>
+			<ymin>17</ymin>
+			<xmax>740</xmax>
+			<ymax>352</ymax>
 		</bndbox>
 	</object>
 </annotation>

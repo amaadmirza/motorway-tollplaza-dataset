@@ -1,7 +1,7 @@
 <annotation>
-	<folder>AVC1 (4-3-2021 1-25-48 AM)</folder>
+	<folder>Train</folder>
 	<filename>AVC1 0837.jpg</filename>
-	<path>C:\Users\Mechanic\Documents\image label\AVC1\AVC1 (4-3-2021 1-25-48 AM)\AVC1 0837.jpg</path>
+	<path>C:\Users\Suleman\Documents\Work\mch_cr\Train\AVC1 0837.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>F5</name>
+		<name>F6</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>473</xmin>
-			<ymin>35</ymin>
-			<xmax>748</xmax>
-			<ymax>421</ymax>
+			<xmin>481</xmin>
+			<ymin>31</ymin>
+			<xmax>756</xmax>
+			<ymax>417</ymax>
 		</bndbox>
 	</object>
 </annotation>

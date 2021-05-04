@@ -1,0 +1,38 @@
+<annotation>
+	<folder>AVCNightHamza</folder>
+	<filename>vlc-record-2021-05-03-23h45m13s-rtsp___192.168.21.45_554- 1226.jpg</filename>
+	<path>E:\Python\LabelImg\AVCNightHamza\vlc-record-2021-05-03-23h45m13s-rtsp___192.168.21.45_554- 1226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>254</ymin>
+			<xmax>822</xmax>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>708</xmin>
+			<ymin>129</ymin>
+			<xmax>832</xmax>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+</annotation>
