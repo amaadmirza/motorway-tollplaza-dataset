@@ -1,7 +1,7 @@
-<annotation>
-	<folder>AVCNightHamza</folder>
+<annotation verified="yes">
+	<folder>test</folder>
 	<filename>vlc-record-2021-05-03-23h45m13s-rtsp___192.168.21.45_554- 0371.jpg</filename>
-	<path>E:\Python\LabelImg\AVCNightHamza\vlc-record-2021-05-03-23h45m13s-rtsp___192.168.21.45_554- 0371.jpg</path>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/test/vlc-record-2021-05-03-23h45m13s-rtsp___192.168.21.45_554- 0371.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>F5</name>
+		<name>F3</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>649</xmin>
+			<xmin>646</xmin>
 			<ymin>24</ymin>
-			<xmax>826</xmax>
-			<ymax>360</ymax>
+			<xmax>829</xmax>
+			<ymax>363</ymax>
 		</bndbox>
 	</object>
 </annotation>

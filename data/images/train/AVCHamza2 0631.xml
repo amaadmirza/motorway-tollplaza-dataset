@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>AVCAmaadHalf</folder>
+	<filename>AVCHamza2 0631.jpg</filename>
+	<path>C:\Users\Suleman\Downloads\AVCAmaadHalf\AVCHamza2 0631.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>232</ymin>
+			<xmax>789</xmax>
+			<ymax>452</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>701</xmin>
+			<ymin>132</ymin>
+			<xmax>822</xmax>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

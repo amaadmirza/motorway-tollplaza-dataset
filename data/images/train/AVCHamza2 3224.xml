@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>AVCHamzaHalf</folder>
+	<filename>AVCHamza2 3224.jpg</filename>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/AVCHamzaHalf/AVCHamza2 3224.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>749</xmin>
+			<ymin>75</ymin>
+			<xmax>857</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>234</ymin>
+			<xmax>779</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

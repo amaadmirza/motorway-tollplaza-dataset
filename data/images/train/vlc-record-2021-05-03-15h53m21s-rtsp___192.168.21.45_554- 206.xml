@@ -1,0 +1,26 @@
+<annotation>
+	<folder>AVCHamza2 (5-7-2021 10-05-28 PM)</folder>
+	<filename>vlc-record-2021-05-03-15h53m21s-rtsp___192.168.21.45_554- 206.jpg</filename>
+	<path>E:\Python\LabelImg\AVCLabel2\AVCHamza2 (5-7-2021 10-05-28 PM)\vlc-record-2021-05-03-15h53m21s-rtsp___192.168.21.45_554- 206.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>57</ymin>
+			<xmax>856</xmax>
+			<ymax>413</ymax>
+		</bndbox>
+	</object>
+</annotation>
