@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>test</folder>
+<annotation>
+	<folder>AVC2 (4-2-2021 9-25-41 AM)</folder>
 	<filename>AVC2 3214.jpg</filename>
-	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/test/AVC2 3214.jpg</path>
+	<path>C:\Users\FWO\Desktop\labeling\AVC2\AVC2 (4-2-2021 9-25-41 AM)\AVC2 3214.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -30,8 +30,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>628</xmin>
-			<ymin>55</ymin>
-			<xmax>735</xmax>
+			<ymin>67</ymin>
+			<xmax>737</xmax>
 			<ymax>210</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Test</folder>
+	<folder>test</folder>
 	<filename>AVC2 3461.jpg</filename>
-	<path>C:\Users\Suleman\Documents\Work\mch_cr\Test\AVC2 3461.jpg</path>
+	<path>/home/amaad/Work/motorway-tollplaza-dataset/data/images/test/AVC2 3461.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

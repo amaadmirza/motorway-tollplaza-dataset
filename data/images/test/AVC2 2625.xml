@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Test</folder>
+	<folder>test</folder>
 	<filename>AVC2 2625.jpg</filename>
-	<path>C:\Users\Suleman\Documents\Work\mch_cr\Test\AVC2 2625.jpg</path>
+	<path>/home/amaad/Work/motorway-tollplaza-dataset/data/images/test/AVC2 2625.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,7 +18,7 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>449</xmin>
-			<ymin>79</ymin>
+			<ymin>74</ymin>
 			<xmax>730</xmax>
 			<ymax>473</ymax>
 		</bndbox>

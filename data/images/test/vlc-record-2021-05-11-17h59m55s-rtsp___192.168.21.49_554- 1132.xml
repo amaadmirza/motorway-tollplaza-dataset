@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vlc-record-2021-05-11-17h59m55s-rtsp___192.168.21.49_554- (5-22-2021 4-36-25 PM)</folder>
+	<filename>vlc-record-2021-05-11-17h59m55s-rtsp___192.168.21.49_554- 1132.jpg</filename>
+	<path>E:\office work\AVC3\vlc-record-2021-05-11-17h59m55s-rtsp___192.168.21.49_554- (5-22-2021 4-36-25 PM)\vlc-record-2021-05-11-17h59m55s-rtsp___192.168.21.49_554- 1132.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>548</xmin>
+			<ymin>179</ymin>
+			<xmax>748</xmax>
+			<ymax>417</ymax>
+		</bndbox>
+	</object>
+</annotation>

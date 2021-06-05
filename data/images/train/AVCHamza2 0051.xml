@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>AVCAmaadHalf</folder>
+<annotation>
+	<folder>train</folder>
 	<filename>AVCHamza2 0051.jpg</filename>
-	<path>C:\Users\Suleman\Downloads\AVCAmaadHalf\AVCHamza2 0051.jpg</path>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/train/AVCHamza2 0051.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>F3</name>
+		<name>F5</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>599</xmin>
-			<ymin>44</ymin>
-			<xmax>855</xmax>
-			<ymax>416</ymax>
+			<xmin>592</xmin>
+			<ymin>49</ymin>
+			<xmax>848</xmax>
+			<ymax>421</ymax>
 		</bndbox>
 	</object>
 </annotation>

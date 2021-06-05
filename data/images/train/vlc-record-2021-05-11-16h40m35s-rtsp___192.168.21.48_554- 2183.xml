@@ -1,0 +1,50 @@
+<annotation>
+	<folder>vlc-record-2021-05-11-16h40m35s-rtsp___192.168.21.48_554- (5-27-2021 7-14-50 AM)</folder>
+	<filename>vlc-record-2021-05-11-16h40m35s-rtsp___192.168.21.48_554- 2183.jpg</filename>
+	<path>C:\Users\zohas\Desktop\Vehicle Categories\AVC\AVC7\AVC7\vlc-record-2021-05-11-16h40m35s-rtsp___192.168.21.48_554- (5-27-2021 7-14-50 AM)\vlc-record-2021-05-11-16h40m35s-rtsp___192.168.21.48_554- 2183.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>411</xmin>
+			<ymin>314</ymin>
+			<xmax>607</xmax>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>226</ymin>
+			<xmax>631</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>160</ymin>
+			<xmax>659</xmax>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+</annotation>

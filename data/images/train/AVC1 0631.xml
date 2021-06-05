@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Train</folder>
+	<folder>train</folder>
 	<filename>AVC1 0631.jpg</filename>
-	<path>C:\Users\Suleman\Documents\Work\mch_cr\Train\AVC1 0631.jpg</path>
+	<path>/home/amaad/Work/motorway-tollplaza-dataset/data/images/train/AVC1 0631.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>539</xmin>
 			<ymin>217</ymin>
-			<xmax>684</xmax>
-			<ymax>373</ymax>
+			<xmax>685</xmax>
+			<ymax>380</ymax>
 		</bndbox>
 	</object>
 </annotation>

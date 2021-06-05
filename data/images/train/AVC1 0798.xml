@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>train</folder>
+<annotation>
+	<folder>AVC1 (4-3-2021 1-25-48 AM)</folder>
 	<filename>AVC1 0798.jpg</filename>
-	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/train/AVC1 0798.jpg</path>
+	<path>C:\Users\Mechanic\Documents\image label\AVC1\AVC1 (4-3-2021 1-25-48 AM)\AVC1 0798.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>

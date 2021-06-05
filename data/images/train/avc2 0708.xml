@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>train</folder>
+	<filename>avc2 0708.jpg</filename>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/train/avc2 0708.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>297</ymin>
+			<xmax>651</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>

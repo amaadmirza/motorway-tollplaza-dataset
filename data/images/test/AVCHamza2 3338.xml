@@ -1,7 +1,7 @@
-<annotation>
-	<folder>AVCHamza2 (5-7-2021 10-05-28 PM)</folder>
+<annotation verified="yes">
+	<folder>test</folder>
 	<filename>AVCHamza2 3338.jpg</filename>
-	<path>E:\Python\LabelImg\AVCLabel2\AVCHamza2 (5-7-2021 10-05-28 PM)\AVCHamza2 3338.jpg</path>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/test/AVCHamza2 3338.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>593</xmin>
-			<ymin>86</ymin>
-			<xmax>817</xmax>
-			<ymax>437</ymax>
+			<xmin>581</xmin>
+			<ymin>83</ymin>
+			<xmax>827</xmax>
+			<ymax>446</ymax>
 		</bndbox>
 	</object>
 </annotation>

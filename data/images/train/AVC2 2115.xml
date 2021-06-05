@@ -1,7 +1,7 @@
 <annotation>
-	<folder>AVC2 (4-2-2021 9-25-41 AM)</folder>
+	<folder>train</folder>
 	<filename>AVC2 2115.jpg</filename>
-	<path>C:\Users\FWO\Desktop\labeling\AVC2\AVC2 (4-2-2021 9-25-41 AM)\AVC2 2115.jpg</path>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/train/AVC2 2115.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>F5</name>
+		<name>F6</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>524</xmin>
-			<ymin>47</ymin>
-			<xmax>765</xmax>
-			<ymax>323</ymax>
+			<xmin>540</xmin>
+			<ymin>35</ymin>
+			<xmax>761</xmax>
+			<ymax>322</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>vlc-record-2021-05-11-13h31m23s-rtsp___192.168.20.47_554- (5-22-2021 4-36-41 PM)</folder>
+	<filename>vlc-record-2021-05-11-13h31m23s-rtsp___192.168.20.47_554- 0304.jpg</filename>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/AF_AVC/vlc1/vlc-record-2021-05-11-13h31m23s-rtsp___192.168.20.47_554- (5-22-2021 4-36-41 PM)/vlc-record-2021-05-11-13h31m23s-rtsp___192.168.20.47_554- 0304.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>707</xmin>
+			<ymin>81</ymin>
+			<xmax>929</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

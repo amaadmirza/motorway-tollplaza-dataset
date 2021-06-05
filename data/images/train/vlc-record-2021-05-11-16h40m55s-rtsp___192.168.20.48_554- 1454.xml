@@ -1,0 +1,38 @@
+<annotation>
+	<folder>F1 Extra</folder>
+	<filename>vlc-record-2021-05-11-16h40m55s-rtsp___192.168.20.48_554- 1454.jpg</filename>
+	<path>C:\Users\zohas\Desktop\F1 Extra\vlc-record-2021-05-11-16h40m55s-rtsp___192.168.20.48_554- 1454.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>323</xmin>
+			<ymin>218</ymin>
+			<xmax>582</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>F1</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>511</xmin>
+			<ymin>77</ymin>
+			<xmax>653</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,4 +1,4 @@
-<annotation verified="yes">
+<annotation>
 	<folder>test</folder>
 	<filename>vlc-record-2021-05-03-23h45m13s-rtsp___192.168.21.45_554- 0641.jpg</filename>
 	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/test/vlc-record-2021-05-03-23h45m13s-rtsp___192.168.21.45_554- 0641.jpg</path>
@@ -19,8 +19,8 @@
 		<bndbox>
 			<xmin>660</xmin>
 			<ymin>183</ymin>
-			<xmax>821</xmax>
-			<ymax>362</ymax>
+			<xmax>834</xmax>
+			<ymax>363</ymax>
 		</bndbox>
 	</object>
 </annotation>

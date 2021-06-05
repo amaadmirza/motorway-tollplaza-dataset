@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>AVCAmaadHalf</folder>
+<annotation>
+	<folder>train</folder>
 	<filename>AVCHamza2 1181.jpg</filename>
-	<path>C:\Users\Suleman\Downloads\AVCAmaadHalf\AVCHamza2 1181.jpg</path>
+	<path>/home/amaad/Work/github_folder/motorway-tollplaza-dataset/data/images/train/AVCHamza2 1181.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>F3</name>
+		<name>F5</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>

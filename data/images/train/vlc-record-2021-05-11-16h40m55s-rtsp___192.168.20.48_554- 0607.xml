@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vlc-record-2021-05-11-16h40m55s-rtsp___192.168.20.48_554- (5-27-2021 7-33-38 AM)</folder>
+	<filename>vlc-record-2021-05-11-16h40m55s-rtsp___192.168.20.48_554- 0607.jpg</filename>
+	<path>C:\Users\zohas\Desktop\Vehicle Categories\AVC\AVC9\AVC9\vlc-record-2021-05-11-16h40m55s-rtsp___192.168.20.48_554- (5-27-2021 7-33-38 AM)\vlc-record-2021-05-11-16h40m55s-rtsp___192.168.20.48_554- 0607.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>29</ymin>
+			<xmax>672</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>
