@@ -1,0 +1,26 @@
+<annotation>
+	<folder>KhiAvc_3 (6-5-2021 2-25-15 PM)</folder>
+	<filename>KhiAvc_3 2613.jpg</filename>
+	<path>E:\Python\LabelImg\AVCLabel2\KhiAvc_3 (6-5-2021 2-25-15 PM)\KhiAvc_3 2613.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>F6</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>428</xmin>
+			<ymin>1</ymin>
+			<xmax>753</xmax>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+</annotation>
